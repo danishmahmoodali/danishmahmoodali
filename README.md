@@ -46,7 +46,7 @@ Currently seeking **Werkstudent / internship roles in Data Science & Analytics**
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Fairness in ML — Paper Replication**](https://github.com/danishmahmoodali/fairness-in-ml-replication) | Replicated bias-mitigation experiments from arXiv:2412.09896 — pre-, in-, and post-processing on Adult Income; post-processing cut demographic parity difference by 99.7% at a 2.2pp accuracy cost | Fairlearn, AIF360, XGBoost |
+| [**Fairness in ML - Paper Replication**](https://github.com/danishmahmoodali/fairness-in-ml-replication) | Replicated bias-mitigation experiments from arXiv:2412.09896 — pre-, in-, and post-processing on Adult Income; post-processing cut demographic parity difference by 99.7% at a 2.2pp accuracy cost | Fairlearn, AIF360, XGBoost |
 | [**Bilingual Tweet Classification**](https://github.com/danishmahmoodali/bilingual-tweet-classification) | Semi-supervised classification of code-switched English/Roman-Urdu tweets into 6 categories, up to 92% accuracy — B.Sc. FYP with a co-authored research paper | scikit-learn, SVM, Naive Bayes |
 | [**Vehicle Price Prediction**](https://github.com/danishmahmoodali/vehicle-price-prediction) | Benchmarked 5 regressors on 1M vehicle listings — gradient boosting and an entity-embedding neural net reach ~4–5% MAPE where linear regression fails at 33% | CatBoost, LightGBM, XGBoost, Keras |
 | [**Crypto Market Dashboard**](https://github.com/danishmahmoodali/crypto-market-dashboard) | Real-time crypto analytics on a decoupled architecture: FastAPI backend shielding a Streamlit/Plotly frontend from the CoinGecko API | FastAPI, Streamlit, Plotly |
@@ -55,9 +55,3 @@ Currently seeking **Werkstudent / internship roles in Data Science & Analytics**
 | [**Mandelbrot Smooth Coloring**](https://github.com/danishmahmoodali/mandelbrot-smooth-coloring) | Research project: plugin-based coloring architecture + C0/C1 continuous iteration counts for artifact-free deep-zoom fractal rendering | NumPy, TensorFlow, plugin architecture |
 | [**MNIST Digit Recognition on AWS**](https://github.com/danishmahmoodali/mnist-digit-recognition-aws) | End-to-end cloud ML pipeline: training, serverless inference, storage, and load-balanced serving | EC2, Lambda, S3, DynamoDB, ELB |
 
----
-
-## 📊 GitHub Stats
-
-![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishmahmoodali&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishmahmoodali&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
