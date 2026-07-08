@@ -48,9 +48,3 @@ Currently seeking **Werkstudent / internship roles in Data Science & Analytics**
 | [**Object Detection with PyTorch**](https://github.com/danishmahmoodali/pytorch-object-detection) | Deep learning object detection model — training, evaluation, and inference | PyTorch, CV |
 | [**ERA-5 Climate Data Analysis**](https://github.com/danishmahmoodali/era5-climate-analysis) | Large-scale climate reanalysis data exploration and visualization | xarray, Python |
 
----
-
-## 📊 GitHub Stats
-
-![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishmahmoodali&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishmahmoodali&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
